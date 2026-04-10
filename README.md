@@ -55,5 +55,3 @@ The dashboard helps stakeholders make data-driven decisions to improve profitabi
 - Excel (Data Source)
 
 ---
-
-## 📂 Project Structure
