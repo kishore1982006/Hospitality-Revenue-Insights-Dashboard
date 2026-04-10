@@ -55,19 +55,6 @@ The dashboard helps stakeholders make data-driven decisions to improve profitabi
 - Excel (Data Source)
 
 ---
-Hospitality-Revenue-Insights-Dashboard/
-│
-├── Dashboard/
-│ └── Revenue-Insights.pbix
-│
-├── Screenshots/
-│ ├── overview.png
-│ ├── trends.png
-│
-└── README.md
-
-
----
 
 ## 📸 Dashboard Preview
 <img width="1310" height="728" alt="Screenshot 2026-04-10 215916" src="https://github.com/user-attachments/assets/c02f25d6-5215-4ea9-bc92-ae72b6a9c52b" />
